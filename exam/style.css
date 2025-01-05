@@ -1,0 +1,55 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #aa6a7b;
+    margin: 0;
+    padding: 0;
+    background-image:url(https://img.freepik.com/free-vector/online-certification-screen-illustrated_23-2148571138.jpg);
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 100px auto;
+    background: #ececee;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(216, 212, 212, 0.1);
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom:20;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight:bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #760afafa;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #4cae4c;
+  }
+  
